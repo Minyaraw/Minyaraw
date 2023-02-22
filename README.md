@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Minyara
 #### I am a front-end web developer!
-![I am a front-end web developer!](https://www.canva.com/design/DAFWn4DJVJU/NvYdlH1z3A2X1xUhD-odNg/view?utm_content=DAFWn4DJVJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![I am a front-end web developer!](https://www.canva.com/design/DAFWn4DJVJU/ubvhZIkxQXKYVR5khIhUTw/view?utm_content=DAFWn4DJVJU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-I’ve started my journey doing Ui/UX design with Google Coursea. I’ve Started a 12-week development program with Computer Coach. Through the ACE program I was able to do an apprenticeship. 
+I’ve started my journey doing Ui/UX design with Google Coursea. I’ve completed a 12-week development program with Computer Coach. Through the ACE program I was able to do an apprenticeship. 
 
 Skills:  JS / HTML / CSS
 
