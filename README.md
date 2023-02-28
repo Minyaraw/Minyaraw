@@ -8,7 +8,7 @@ I’ve started my journey doing Ui/UX design with Google Coursea. I’ve complet
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React. 
 - 📫 How to reach me: Minyaraw@yahoo.com 
 - 😄 Pronouns: She/Her 
 
